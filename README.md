@@ -10,16 +10,12 @@ The code for paper "GATESynergy: integrating molecular global-local aggregator a
 ## 2. Dependencies
 - Python 3.9.12
 - PyTorch 2.1.0 + CUDA 12.1
-- DGL 2.4.0 (cu121)
 - torch-geometric 2.5.1
 - NumPy 1.24.1
 - Pandas 2.2.1
 - SciPy 1.12.0
 - scikit-learn 0.24.2
-- XGBoost 1.7.5
-- LightGBM 3.3.5
 - RDKit 2023.9.3
-- DGLLife 0.3.0
 
 ## 3. Quick Start
 Here we provide to predict drug synergy:
