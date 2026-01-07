@@ -18,7 +18,7 @@ The code for paper "GATESynergy: integrating molecular global-local aggregator a
 - RDKit 2023.9.3
 
 ## 3. Quick Start
-Here we provide to predict drug synergy:
+Here we provide a example to predict drug synergy:
 1. Download and upzip our data and code files
 2. Run "train.py"
 
