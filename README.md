@@ -1,11 +1,11 @@
 # GATESynergy: integrating molecular global-local aggregator and hierarchical gene-gated encoder for drug synergy prediction
 ## 1. Overview
 The code for paper "GATESynergy: integrating molecular global-local aggregator and hierarchical gene-gated encoder for drug synergy prediction". The repository is organized as follows:
-- data/ contains the datasets used in the paper;
-- code/train.py contains training and testing code;
-- code/process_data.py contains the preprocess of data;
-- code/dataset.py contains the dataset construction and preprocessing for drug graph data.
-- code/model.py contains GATESynergy's model layer;
+- `data/` contains the datasets used in the paper;
+- `code/train.py` contains training and testing code;
+- `code/process_data.py` contains the preprocess of data;
+- `code/dataset.py` contains the dataset construction and preprocessing for drug graph data.
+- `code/model.py` contains GATESynergy's model layer;
 
 ## 2. Dependencies
 - Python 3.9.12
